@@ -1,5 +1,3 @@
-
-
 const questions = [
     {
         question: "What is the capital of Pakistan?",
@@ -12,14 +10,14 @@ const questions = [
         correct: 1
     },
     {
-        question: "What is your favorite food?",
-        choices: ["Chicken", "Vegetable", "Rice", "Daal"],
-        correct: 3
+        question: "Who is the father of Computers?",
+        choices: ["James Gosling", "Charles Babbage", "Dennis Ritchie", "none"],
+        correct: 1
     },
     {
-        question: "What is your favorite game?",
-        choices: ["Cricket", "Football", "Volleyball", "Hockey"],
-        correct: 0
+        question: "What is the extension of compiled java classes?",
+        choices: [".js", ".txt", ".class", ".java"],
+        correct: 2
     }
 ];
 
