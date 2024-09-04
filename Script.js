@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.querySelectorAll('.answer-btn').forEach((button, index) => {
         button.addEventListener('click', () => handleAnswerClick(index));
-        button.addEventListener('mouseover', () => button.style.backgroundColor = '#0056b3');
+        button.addEventListener('mouseover', () => button.style.backgroundColor = '#0556b3');
         button.addEventListener('mouseout', () => button.style.backgroundColor = '#007bff');
     });
 
