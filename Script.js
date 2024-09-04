@@ -1,7 +1,7 @@
 const questions = [
     {
         question: "What is the capital of Pakistan?",
-        choices: ["Peshawar", "Lahore", "Islamabad", "Karachi"],
+        choices: ["Peshawar", "Lahore", "Islamabad", "None"],
         correct: 2
     },
     {
