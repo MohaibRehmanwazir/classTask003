@@ -10,7 +10,7 @@ const questions = [
         correct: 1
     },
     {
-        question: "Who is the father of Computers?",
+        question: "What is the father of Computers?",
         choices: ["James Gosling", "Charles Babbage", "Dennis Ritchie", "none"],
         correct: 1
     },
