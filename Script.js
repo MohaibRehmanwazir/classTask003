@@ -15,8 +15,8 @@ const questions = [
         correct: 1
     },
     {
-        question: "What is the extension of compiled java classes?",
-        choices: [".js", ".txt", ".class", ".java"],
+        question: "Which of the following type of a variable is volatile?",
+        choices: ["Mutable variable", "Dynamic variable", "Volatile variable", "Immutable variable"],
         correct: 2
     }
 ];
